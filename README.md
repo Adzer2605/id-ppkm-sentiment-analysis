@@ -10,10 +10,10 @@ Analisis Sentimen Opini Publik di Media Sosial Terhadap Kebijakan PPKM sebagai E
 1. 244311044  
 2. 244311057  
 
-- **Program Studi:** [Isi Program Studi]
+- **Program Studi:** Teknologi Rekayasa Perangkat Lunak
 - **Mata Kuliah:** Data Science
 - **Dosen Pengampu:** Gus Nanang Syaifuddin, S.Kom., M.Kom.  
-- **Tahun Akademik:** [Isi Tahun/Semester]  
+- **Tahun Akademik:** 2026/5 
 - **Link GitHub Repository:** https://github.com/Adzer2605/id-ppkm-sentiment-analysis
 - **Link Video Pembahasan:** [URL Video (YouTube/Drive)]  
 - **SDG yang Dipilih:** SDG 16 – Perdamaian, Keadilan, dan Kelembagaan yang Tangguh  
